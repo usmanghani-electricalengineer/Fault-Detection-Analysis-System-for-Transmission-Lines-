@@ -35,6 +35,7 @@ To design a real-time fault detection and classification system for transmission
 
 ## Components Used
 | **Component** | **Description** |
+|------------|-------------|
 | **ESP32** | Main microcontroller for processing |
 | **BLDC Motor + Controller** | Generates 3-phase AC |
 | **CT Sensor (ZMCT103)** | Measures current in each phase |
